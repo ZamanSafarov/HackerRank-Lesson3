@@ -1,0 +1,14 @@
+D:\Coding\CrocusoftLearning\Lesson3\Task2\bin\Debug\net8.0\Task2.exe
+D:\Coding\CrocusoftLearning\Lesson3\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Coding\CrocusoftLearning\Lesson3\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Coding\CrocusoftLearning\Lesson3\Task2\bin\Debug\net8.0\Task2.dll
+D:\Coding\CrocusoftLearning\Lesson3\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\Task2.dll
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Coding\CrocusoftLearning\Lesson3\Task2\obj\Debug\net8.0\ref\Task2.dll
